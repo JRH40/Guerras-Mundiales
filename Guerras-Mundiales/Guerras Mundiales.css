@@ -1,0 +1,33 @@
+body{
+    background-color: dimgrey;
+}
+h1{
+    text-align: center;
+    background-color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    background-color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+P{
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+table{
+    background-color: goldenrod;
+}
+td{
+    background-color: dimgrey;
+}
